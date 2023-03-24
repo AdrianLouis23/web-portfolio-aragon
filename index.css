@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar {
+	background-color: #d4a373;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+
+}
+a img {
+	width: 100px;
+	height: 50px;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #faedcd;
+	
+}	
+
+li {
+	font-size: 1.2em;
+}
+
+div .for-gallery {
+	background-color: #fefae0;
+}
+
+#about-me {
+	padding-top: 50px;
+}
+div .for-skills {
+	background-color: #e9edc9;
+}
+
+div .for-contact {
+	background-color: #fefae0;
+}
+
+#projects {
+	background-color: #d4a373;
+
+}
+
+#skills {
+	background-color: #d4a373;
+}
+
+#contact-me {
+	background-color: #d4a373;
+}
+
+#text {
+	color: white;
+	background-color: #219ebc;
+}
+
